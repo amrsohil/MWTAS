@@ -6,4 +6,7 @@ The idea itself may look stupid but it helped to solve 2 issues in our office, a
 - The time attendance for our employees (Using IP Address & MAC Address of mobile phones).
 - The location of employees inside a 4 floors building (Using IP Address & Different Subnets).
 
+
+WI-FI Should be always enabled and connected on the selected devices.
+
 Your contribution in the code & idea is more than welcome.
